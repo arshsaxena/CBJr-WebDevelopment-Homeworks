@@ -1,12 +1,12 @@
 # VMC-CBJr-WebDevelopment-Homeworks
-Arsh's VMC-CBJr Web Development Homeworks <br>
-• Start Date: August 5, 2020 <br>
-• End Date: TBD <br>
-• Last Quiz: TBD <br>
-• Test Date: TBD <br>
+<b>Arsh's VMC-CBJr Web Development Homeworks</b> <br>
+• <b>Start Date:</b> August 5, 2020 <br>
+• <b>End Date:</b> TBD <br>
+• <b>Last Quiz:</b> TBD <br>
+• <b>Test Date:</b> TBD <br>
 <br>
-<b>Schedule</b>
-• Frequency: 2 Times a Week <br>
-• Duration: 45 - 60 Minutes <br>
-• Days: Wednesday and Friday <br>
-• Timings: 08:00 PM - 09:00 PM <br>
+<b>Schedule</b><br>
+• <b>Frequency:</b> Twice a week <br>
+• <b>Duration:</b> 45-60 minutes <br>
+• <b>Days:</b> Wednesday and Friday <br>
+• <b>Timings:</b> 08:00 PM - 09:00 PM
