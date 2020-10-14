@@ -9,4 +9,4 @@
 • <b>Frequency:</b> Twice a week <br>
 • <b>Duration:</b> 45-60 minutes <br>
 • <b>Days:</b> Wednesday and Friday <br>
-• <b>Timings:</b> 08:00 PM - 09:00 PM
+• <b>Timings:</b> 08:00 PM to 09:00 PM
