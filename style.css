@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.mainspan{
+    font-size: 40px;
+    color: rgb(0, 236, 0);
+}
+.subspan{
+    font-size: 35px;
+}
+.mentorspan{
+    color: orange;
+}
+.homework-links{
+    font-size: 30px;
+}
+.heads{
+    color: rgb(82, 197, 243);
+}
+.html{
+    float: left;
+    width: 33.33%;
+}
+.css{
+    float: left;
+    width: 33.33%;
+}
+.javascript{
+    float: left;
+    width: 33.33%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition-property: font-size color;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+}
+a:hover{
+    font-size: 40px;
+    color: coral;
+}
