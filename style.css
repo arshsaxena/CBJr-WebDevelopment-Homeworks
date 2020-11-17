@@ -1,14 +1,14 @@
 @font-face {
     font-family: "SF Pro Text";
-    src: url('https://github.com/arshsaxena/arshsaxena.github.io/blob/main/resources/first-page/fonts/font-regular.otf?raw=true');
+    src: url('/fonts/font.otf');
 }
 @font-face{
     font-family: "SF Pro Text Bold";
-    src: url('https://github.com/arshsaxena/arshsaxena.github.io/blob/main/resources/first-page/fonts/font-bold.otf?raw=true');
+    src: url('fonts/font-bold.otf');
 }
 @font-face{
     font-family: "SF Pro Italic";
-    src: url('../../resources/first-page/fonts/font-italic.otf');
+    src: url('fonts/font-italic.otf');
 }
 body{
     text-align: center;
