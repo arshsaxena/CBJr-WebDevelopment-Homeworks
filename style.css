@@ -1,14 +1,14 @@
 @font-face {
     font-family: "SF Pro Text";
-    src: url('/fonts/font.otf');
+    src: url('./fonts/font.otf');
 }
 @font-face{
     font-family: "SF Pro Text Bold";
-    src: url('fonts/font-bold.otf');
+    src: url('./fonts/font-bold.otf');
 }
 @font-face{
     font-family: "SF Pro Italic";
-    src: url('fonts/font-italic.otf');
+    src: url('./fonts/font-italic.otf');
 }
 body{
     text-align: center;
