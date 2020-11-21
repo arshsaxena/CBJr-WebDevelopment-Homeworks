@@ -6,11 +6,12 @@
 • <b>Playlist:</b> https://www.youtube.com/playlist?list=PLhLbJ9UoJCvst8UEBSOGMXmSjPsSODzwb<br><br>
 • <b>First Quiz:</b> September 12, 2020 <br>
 • <b>Last Quiz:</b> TBD <br>
-• <b>Total Quizzes:</b> 08 <br><br>
+• <b>Total Quizzes:</b> 09 <br><br>
 • <b>First Test Date:</b> TBD <br>
 • <b>Second Test Date:</b> TBD <br>
 • <b>Test Result Date:</b> TBD <br>
 • <b>Certificate Issue Date:</b> TBD <br>
+• <b>Certificate Received Date:</b> TBD <br>
 <br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Four times a week <br>
