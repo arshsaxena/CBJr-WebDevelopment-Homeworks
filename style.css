@@ -16,6 +16,9 @@ body{
     color: white;
     font-family: SF Pro Text;
 }
+b{
+    font-family: SF Pro Text Bold;
+}
 .mainspan{
     font-size: 40px;
     color: rgb(60, 218, 60);
@@ -64,6 +67,15 @@ a{
 a:hover{
     font-size: 40px;
     color: coral;
+}
+.new-indicator{
+    animation: blinker 1500ms ease-in-out infinite;
+    color: rgb(255, 0, 0);
+}
+@keyframes blinker{
+    50%{
+        opacity: 0;
+    }
 }
 /* Scrollbar */
 body::-webkit-scrollbar {
