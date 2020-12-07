@@ -11,10 +11,8 @@
 • <b>Second Test Date:</b> TBD <br>
 • <b>Test Result Date:</b> TBD <br>
 • <b>Certificate Issue Date:</b> TBD <br>
-• <b>Certificate Received Date:</b> TBD <br>
-<br>
-• <b>Featured:</b> <a href="https://www.instagram.com/p/CIVoFnTHisL/">https://www.instagram.com/p/CIVoFnTHisL/</a>
-<br>
+• <b>Certificate Received Date:</b> TBD <br><br>
+• <b>Featured:</b> <a href="https://www.instagram.com/p/CIVoFnTHisL/">https://www.instagram.com/p/CIVoFnTHisL/</a><br><br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Four times a week <br>
 • <b>Duration:</b> 45-60 minutes <br>
