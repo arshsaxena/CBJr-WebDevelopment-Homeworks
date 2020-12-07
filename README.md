@@ -1,6 +1,6 @@
 # VMC-CBJr-WebDevelopment-Homeworks
 <b>Arsh's VMC-CBJr Web Development Homeworks</b> <br>
-<b>Website: </b> https://arshsaxena.github.io/VMC-CBJr-WebDevelopment-Homeworks/ <br>
+<b>Homeworks webpage: </b> https://arshsaxena.github.io/VMC-CBJr-WebDevelopment-Homeworks/ <br>
 • <b>Start Date:</b> August 5, 2020 <br>
 • <b>End Date:</b> TBD <br>
 • <b>Playlist:</b> https://www.youtube.com/playlist?list=PLhLbJ9UoJCvst8UEBSOGMXmSjPsSODzwb<br><br>
@@ -12,6 +12,8 @@
 • <b>Test Result Date:</b> TBD <br>
 • <b>Certificate Issue Date:</b> TBD <br>
 • <b>Certificate Received Date:</b> TBD <br>
+<br>
+• <b>Featured:</b> <a href="https://www.instagram.com/p/CIVoFnTHisL/">https://www.instagram.com/p/CIVoFnTHisL/</a>
 <br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Four times a week <br>
