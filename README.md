@@ -13,7 +13,7 @@
 • <b>Certificate Issue Date:</b> TBD <br>
 • <b>Certificate Received Date:</b> TBD <br><br>
 • <b>Featured:</b><br>
-<a href="https://www.instagram.com/p/CIVoFnTHisL/">https://www.instagram.com/p/CIVoFnTHisL/</a>;<br>
+<a href="https://www.instagram.com/p/CIVoFnTHisL/">https://www.instagram.com/p/CIVoFnTHisL/</a><br>
 <a href="https://www.instagram.com/p/CIsSJmrnvUb/">https://www.instagram.com/p/CIsSJmrnvUb/</a><br><br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Four times a week <br>
