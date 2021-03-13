@@ -2,13 +2,12 @@
 <b>Arsh's VMC-CBJr Web Development Homeworks</b> <br>
 <b>Homeworks webpage: </b> https://arshsaxena.github.io/VMC-CBJr-WebDevelopment-Homeworks/ <br>
 • <b>Start Date:</b> August 5, 2020 <br>
-• <b>End Date:</b> TBD <br>
+• <b>End Date:</b> December 16, 2020 <br>
 • <b>Playlist:</b> https://www.youtube.com/playlist?list=PLhLbJ9UoJCvst8UEBSOGMXmSjPsSODzwb<br><br>
 • <b>First Quiz:</b> September 12, 2020 <br>
-• <b>Last Quiz:</b> TBD <br>
+• <b>Last Quiz:</b> November 28, 2020 <br>
 • <b>Total Quizzes:</b> 10 <br><br>
-• <b>First Test Date:</b> TBD <br>
-• <b>Second Test Date:</b> TBD <br>
+• <b>Test Date:</b> TBD <br>
 • <b>Test Result Date:</b> TBD <br>
 • <b>Certificate Issue Date:</b> TBD <br>
 • <b>Certificate Received Date:</b> TBD <br><br>
